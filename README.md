@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeriosKrim
-- 👀 I’m interested in ... A lot of things but mainly Game development/ making a visual novel
+- 👀 I’m interested in ... A lot of things but mainly game development/ making a visual novel game
 - 🌱 I’m currently learning ... Renpy, Python and Full Stack
 - 📫 How to reach me ... you can reach me at wanyajones82@gmail.com
 
